@@ -1,0 +1,56 @@
+#
+# Created for Leeds COMP 5821M Spring 2018
+#
+#
+# Surface vertices=6 faces=8
+#
+Vertex 0  0.000000  0.000000  1.000000
+Vertex 1  1.000000  0.000000  0.000000
+Vertex 2  0.000000  1.000000  0.000000
+Vertex 3 -1.000000  0.000000  0.000000
+Vertex 4  0.000000 -1.000000  0.000000
+Vertex 5  0.000000  0.000000 -1.000000
+Normal 0  0.000000  0.000000 -1.000000
+Normal 1 -1.000000  0.000000  0.000000
+Normal 2  0.000000 -1.000000  0.000000
+Normal 3  1.000000  0.000000  0.000000
+Normal 4  0.000000  1.000000  0.000000
+Normal 5  0.000000  0.000000  1.000000
+FirstDirectedEdge 0   1
+FirstDirectedEdge 1   2
+FirstDirectedEdge 2   0
+FirstDirectedEdge 3   3
+FirstDirectedEdge 4   6
+FirstDirectedEdge 5  13
+Face  0   0  1  2
+Face  1   0  2  3
+Face  2   0  3  4
+Face  3   0  4  1
+Face  4   5  3  2
+Face  5   5  2  1
+Face  6   5  1  4
+Face  7   5  4  3
+OtherHalf 0   4
+OtherHalf 1   9
+OtherHalf 2  17
+OtherHalf 3   7
+OtherHalf 4   0
+OtherHalf 5  14
+OtherHalf 6  10
+OtherHalf 7   3
+OtherHalf 8  23
+OtherHalf 9   1
+OtherHalf 10   6
+OtherHalf 11  20
+OtherHalf 12  16
+OtherHalf 13  21
+OtherHalf 14   5
+OtherHalf 15  19
+OtherHalf 16  12
+OtherHalf 17   2
+OtherHalf 18  22
+OtherHalf 19  15
+OtherHalf 20  11
+OtherHalf 21  13
+OtherHalf 22  18
+OtherHalf 23   8

@@ -1,0 +1,106 @@
+#
+# Created for Leeds COMP 5821M Spring 2018
+#
+#
+# Surface vertices=12 faces=16
+#
+Vertex 0  0.000000  0.000000  1.931400
+Vertex 1  0.931400  0.000000  1.000000
+Vertex 2  0.000000  0.931400  1.000000
+Vertex 3 -0.931400  0.000000  1.000000
+Vertex 4  0.000000 -0.931400  1.000000
+Vertex 5  0.000000  0.000000  0.068600
+Vertex 6  0.000000  0.000000 -0.068600
+Vertex 7  0.931400  0.000000 -1.000000
+Vertex 8  0.000000  0.931400 -1.000000
+Vertex 9 -0.931400  0.000000 -1.000000
+Vertex 10  0.000000 -0.931400 -1.000000
+Vertex 11  0.000000  0.000000 -1.931400
+Normal 0  0.000000  0.000000 -1.000000
+Normal 1 -1.000000  0.000000  0.000000
+Normal 2  0.000000 -1.000000 -0.000000
+Normal 3  1.000000  0.000000  0.000000
+Normal 4  0.000000  1.000000  0.000000
+Normal 5  0.000000 -0.000000  1.000000
+Normal 6  0.000000  0.000000 -1.000000
+Normal 7 -1.000000  0.000000  0.000000
+Normal 8  0.000000 -1.000000 -0.000000
+Normal 9  1.000000  0.000000  0.000000
+Normal 10  0.000000  1.000000  0.000000
+Normal 11  0.000000 -0.000000  1.000000
+FirstDirectedEdge 0   1
+FirstDirectedEdge 1   2
+FirstDirectedEdge 2   0
+FirstDirectedEdge 3   3
+FirstDirectedEdge 4   7
+FirstDirectedEdge 5   9
+FirstDirectedEdge 6  25
+FirstDirectedEdge 7  26
+FirstDirectedEdge 8  24
+FirstDirectedEdge 9  27
+FirstDirectedEdge 10  31
+FirstDirectedEdge 11  33
+Face  0   0  1  2
+Face  1   0  2  3
+Face  2   4  1  0
+Face  3   2  1  5
+Face  4   0  3  4
+Face  5   2  5  3
+Face  6   5  1  4
+Face  7   3  5  4
+Face  8   6  7  8
+Face  9   6  8  9
+Face 10  10  7  6
+Face 11   8  7 11
+Face 12   6  9 10
+Face 13   8 11  9
+Face 14  11  7 10
+Face 15   9 11 10
+OtherHalf 0   4
+OtherHalf 1   8
+OtherHalf 2  10
+OtherHalf 3  13
+OtherHalf 4   0
+OtherHalf 5  15
+OtherHalf 6  12
+OtherHalf 7  20
+OtherHalf 8   1
+OtherHalf 9  16
+OtherHalf 10   2
+OtherHalf 11  19
+OtherHalf 12   6
+OtherHalf 13   3
+OtherHalf 14  21
+OtherHalf 15   5
+OtherHalf 16   9
+OtherHalf 17  22
+OtherHalf 18  23
+OtherHalf 19  11
+OtherHalf 20   7
+OtherHalf 21  14
+OtherHalf 22  17
+OtherHalf 23  18
+OtherHalf 24  28
+OtherHalf 25  32
+OtherHalf 26  34
+OtherHalf 27  37
+OtherHalf 28  24
+OtherHalf 29  39
+OtherHalf 30  36
+OtherHalf 31  44
+OtherHalf 32  25
+OtherHalf 33  40
+OtherHalf 34  26
+OtherHalf 35  43
+OtherHalf 36  30
+OtherHalf 37  27
+OtherHalf 38  45
+OtherHalf 39  29
+OtherHalf 40  33
+OtherHalf 41  46
+OtherHalf 42  47
+OtherHalf 43  35
+OtherHalf 44  31
+OtherHalf 45  38
+OtherHalf 46  41
+OtherHalf 47  42
